@@ -30,3 +30,25 @@ Menu
 2. Check Code Word
 3. Exit
 3
+
+
+
+## 2) Shortest path between vertices using Bellman Ford Algorithm🚀
+ 
+
+Vertex Distance from Source:
+
+
+|  | |
+| --- | --- | 
+| 0 | 0| 
+| 1 | -1 | 
+|2|2|
+|3|-2|
+4|1
+
+
+
+
+
+
