@@ -48,6 +48,25 @@ Vertex Distance from Source:
 4|1
 
 
+## 3) Congestion Control Using leaky bucket algorithm.🚀
+ 
+Buffer size= 4 
+  out of bucket size= 10
+
+Buffer size= 7 out of bucket size= 10
+
+Buffer size= 10 out of bucket size= 10
+
+Packet loss = 4
+
+Buffer size= 9 out of bucket size= 10
+
+
+
+
+
+
+
 
 
 
