@@ -64,6 +64,9 @@ Buffer size= 9 out of bucket size= 10
 
 
 
+![image](https://github.com/becodewala-youtube/CN-Lab-Program-vtu/assets/83962116/9b92649b-20f2-4bc8-967b-b786de5e3f0d)
+
+
 
 
 
