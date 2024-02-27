@@ -70,6 +70,10 @@ Buffer size= 9 out of bucket size= 10
 ![image](https://github.com/becodewala-youtube/CN-Lab-Program-vtu/assets/83962116/fa6e7024-4af1-4724-8292-5620adf300c3)
 ![image](https://github.com/becodewala-youtube/CN-Lab-Program-vtu/assets/83962116/049723b0-d33e-4247-ab57-06f08bdfafaf)
 
+## C
+![image](https://github.com/becodewala-youtube/CN-Lab-Program-vtu/assets/83962116/297f9d94-41f8-4798-af38-b82871f356cb)
+![image](https://github.com/becodewala-youtube/CN-Lab-Program-vtu/assets/83962116/d1bd6d6a-5697-4ed2-8a75-4b7dbc77a38f)
+
 
 
 
